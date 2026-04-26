@@ -5,8 +5,6 @@ title: Yuta Tsuboi
 
 [Japanese](index_ja.html) | English
 
-I am a natural language processing researcher.
-
 ---
 
 ## Bio.
@@ -15,7 +13,6 @@ Currently, I'm working at **Preferred Networks, Inc.**
 I received my M.E. from Nara Institute of Science and Technology (NAIST) in 2002, and had been engaged in research on text mining at IBM Research from 2002 to 2016.
 I received my D.E. from NAIST in 2009.
 My research interests include natural language processing, machine learning, and data mining.
-I am a member of [Information Processing Society of Japan](http://www.ipsj.or.jp/english/index.html) and [Association for Natural Language Processing](http://www.anlp.jp/).
 
 *   **X:** [@yuutat](http://twitter.com/yuutat)
 

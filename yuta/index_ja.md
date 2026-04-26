@@ -5,8 +5,6 @@ title: 坪井祐太(Yuta Tsuboi)
 
 Japanese | [English](index_en.html)
 
-自然言語処理研究者です．
-
 ---
 
 ## 略歴
@@ -16,7 +14,6 @@ Japanese | [English](index_en.html)
 2009年奈良先端科学技術大学院大学情報科学研究科博士後期課程修了．
 2017年6月まで日本アイ・ビー・エム東京基礎研究所を経てソフトウェア・システム開発研究所にてテキストマイニングの研究開発に従事．
 現在、株式会社Preferred Networksにてリサーチャー職．
-言語処理学会会員．
 博士（工学）．
 
 *   **X:** [@yuutat](http://twitter.com/yuutat)
