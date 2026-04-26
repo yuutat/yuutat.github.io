@@ -20,7 +20,7 @@ Japanese | [English](index_en.html)
 
 ## Research Topics
 
-*   Atomistic Simulation, Machine Learning Interatomic Potentials (MLIPs)
+*   原子レベルシミュレーション, 機械学習原子間ポテンシャル(MLIPs)
 
 ## Publications
 
