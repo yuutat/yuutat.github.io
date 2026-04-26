@@ -1,6 +1,6 @@
 # 坪井祐太(Yuta Tsuboi)
 
-Japanese | [English](index.md)
+Japanese | [English](index_en.html)
 
 自然言語処理研究者です．
 

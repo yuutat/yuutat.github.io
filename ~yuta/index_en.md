@@ -1,6 +1,6 @@
 # Yuta Tsuboi
 
-[Japanese](index_ja.md) | English
+[Japanese](index_ja.html) | English
 
 ---
 

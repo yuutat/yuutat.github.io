@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    var lang = window.navigator.language || window.navigator.userLanguage;
+    if (lang.indexOf('ja') === 0) {
+      window.location.replace('index_ja.html');
+    } else {
+      window.location.replace('index_en.html');
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting... <a href="index_en.html">English</a> | <a href="index_ja.html">Japanese</a></p>
+</body>
+</html>
