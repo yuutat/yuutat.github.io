@@ -32,7 +32,9 @@ Japanese | [English](index_en.html)
 
 ### Journal Papers
 
-*   壁谷佳典，**坪井祐太**，吉田一星，豊島浩文，岡原勇郎. "[《特集号招待論文》機械学習のビジネス適用事例紹介－電話オペレータ支援と保険支払査定の事例から－](http://www.ipsj.or.jp/dp/contents/dp-mokuji.html)", デジタルプラクティス, Vol. 7, No. 4, pp.370-377, 2016.
+*   Akihide Hayashi, So Takamoto, Ju Li, **Yuta Tsuboi**, and Daisuke Okanohara. "[Generative Model for Constructing Reaction Path from Initial to Final States](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01397)", Journal of Chemical Theory and Computation, 2025.
+*   壁谷佳典，**坪井祐太**，
+吉田一星，豊島浩文，岡原勇郎. "[《特集号招待論文》機械学習のビジネス適用事例紹介－電話オペレータ支援と保険支払査定の事例から－](http://www.ipsj.or.jp/dp/contents/dp-mokuji.html)", デジタルプラクティス, Vol. 7, No. 4, pp.370-377, 2016.
 *   梶野 洸, **坪井 祐太**, 佐藤 一誠, 鹿島 久嗣. "[エキスパートによる訓練データとクラウドソーシングで作成した訓練データからの教師付き学習](https://www.jstage.jst.go.jp/article/tjsai/28/3/28_243/_article/-char/ja/)", 人工知能学会論文誌, Vol.28, No.3, pp.243-248, 2013.
 *   古関聰，金山博，**坪井祐太**，平出涼，千葉立寛，米持幸寿，野村尚. "[《招待論文》金融分野におけるビッグデータ分析](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=89397&item_no=1&page_id=13&block_id=8)", デジタルプラクティス, Vol. 4, No. 1, pp.12-19, 2013.
 *   森信介, ニュービッグ グラム, **坪井祐太**. ["点予測による自動単語分割"](http://ci.nii.ac.jp/naid/110008665640), 情報処理学会論文誌, Vol. 52, No. 10, pp.2944-2952, 2011.

@@ -30,7 +30,9 @@ My research interests include natural language processing, machine learning, and
 
 ### Journal Papers
 
-*   Hiroshi Kajino, **Yuta Tsuboi**, Issei Sato and Hisashi Kashima. "[Learning from Crowds and Experts](https://www.jstage.jst.go.jp/article/tjsai/28/3/28_243/_article/-char/en/)", Journal of Japanese Society of Artificial Intelligence (in Japanese), Vol.28, No.3, pp.243-248, 2013.
+*   Akihide Hayashi, So Takamoto, Ju Li, **Yuta Tsuboi**, and Daisuke Okanohara. "[Generative Model for Constructing Reaction Path from Initial to Final States](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01397)", Journal of Chemical Theory and Computation, 2025.
+*   Hiroshi Kajino, **Yuta Tsuboi**,
+ Issei Sato and Hisashi Kashima. "[Learning from Crowds and Experts](https://www.jstage.jst.go.jp/article/tjsai/28/3/28_243/_article/-char/en/)", Journal of Japanese Society of Artificial Intelligence (in Japanese), Vol.28, No.3, pp.243-248, 2013.
 *   Shinsuke Mori, Graham Neubig, and **Yuta Tsuboi**. ["A Pointwise Approach to Automatic Word Segmentation"](http://ci.nii.ac.jp/naid/110008665640), IPSJ Journal (in Japanese), Vol. 52, No. 10, pp.2944-2952, 2011.
 *   Shohei Hido, **Yuta Tsuboi**, Hisashi Kashima, Masashi Sugiyama and Takafumi Kanamori. ["Statistical Outlier Detection Using Direct Density Ratio Estimation"](publications/Statistical%20Outlier%20Detection%20Using%20Direct%20Density%20Ratio%20Estimation.pdf), Knowledge and Information Systems, Vol. 26, No. 2, pp.309-336, 2010.
 *   **Yuta Tsuboi**, Hisashi Kashima, Shinsuke Mori, Hiroki Oda, and Yuji Matsumoto. ["Training Conditional Random Fields Using Partial Annotations for Domain Adaptation of Japanese Word Segmentation"](http://ci.nii.ac.jp/naid/110007970452) ([PDF](publications/IPSJ-JNL5006008.pdf)), IPSJ Journal (in Japanese), Vol. 50, No. 6, pp.1622-1635, 2009.
