@@ -31,8 +31,7 @@ My research interests include natural language processing, machine learning, and
 ### Journal Papers
 
 *   Akihide Hayashi, So Takamoto, Ju Li, **Yuta Tsuboi**, and Daisuke Okanohara. "[Generative Model for Constructing Reaction Path from Initial to Final States](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01397)", Journal of Chemical Theory and Computation, 2025.
-*   Hiroshi Kajino, **Yuta Tsuboi**,
- Issei Sato and Hisashi Kashima. "[Learning from Crowds and Experts](https://www.jstage.jst.go.jp/article/tjsai/28/3/28_243/_article/-char/en/)", Journal of Japanese Society of Artificial Intelligence (in Japanese), Vol.28, No.3, pp.243-248, 2013.
+*   Hiroshi Kajino, **Yuta Tsuboi**, Issei Sato and Hisashi Kashima. "[Learning from Crowds and Experts](https://www.jstage.jst.go.jp/article/tjsai/28/3/28_243/_article/-char/en/)", Journal of Japanese Society of Artificial Intelligence (in Japanese), Vol.28, No.3, pp.243-248, 2013.
 *   Shinsuke Mori, Graham Neubig, and **Yuta Tsuboi**. ["A Pointwise Approach to Automatic Word Segmentation"](http://ci.nii.ac.jp/naid/110008665640), IPSJ Journal (in Japanese), Vol. 52, No. 10, pp.2944-2952, 2011.
 *   Shohei Hido, **Yuta Tsuboi**, Hisashi Kashima, Masashi Sugiyama and Takafumi Kanamori. ["Statistical Outlier Detection Using Direct Density Ratio Estimation"](publications/Statistical%20Outlier%20Detection%20Using%20Direct%20Density%20Ratio%20Estimation.pdf), Knowledge and Information Systems, Vol. 26, No. 2, pp.309-336, 2010.
 *   **Yuta Tsuboi**, Hisashi Kashima, Shinsuke Mori, Hiroki Oda, and Yuji Matsumoto. ["Training Conditional Random Fields Using Partial Annotations for Domain Adaptation of Japanese Word Segmentation"](http://ci.nii.ac.jp/naid/110007970452) ([PDF](publications/IPSJ-JNL5006008.pdf)), IPSJ Journal (in Japanese), Vol. 50, No. 6, pp.1622-1635, 2009.
@@ -42,18 +41,7 @@ My research interests include natural language processing, machine learning, and
 
 ### Publications in Refereed Conferences
 
-*   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, **Yuta Tsuboi**, Ryuhei Okuno, and So Takamoto. "[Efficient Universal Potential Distillation with Pre-trained Students in LightPFP](https://openreview.net/forum?id=UZYPLGryS6)", ICLR 2026 (Submitted/OpenReview), 2026.
-*   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_100.pdf)", NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS), 2025.
-
-### Workshops & Symposiums
-
-*   Wenwen Li, Nontawat Charoenphakdee, **Yuta Tsuboi**, So Takamoto, and Ju Li. "LightPFP – Accelerating the Development of Task-Specific Machine Learning Potentials Using Universal Potential", 2024 MRS Fall Meeting & Exhibit, 2024.
-*   Chikashi Shinagawa, So Takamoto, Daiki Shintani, Katsuhiko Nishimura, Kohei Shinohara, Shigeru Iwase, **Yuta Tsuboi**, and Ju Li. "r2SCAN level universal neural network potential for molecules, crystals and surfaces", ACS Fall 2025, 2025.
-*   So Takamoto, Chikashi Shinagawa, Daiki Shintani, Katsuhiko Nishimra, Kohei Shinohara, Shigeru Iwase, **Yuta Tsuboi**, and Ju Li. "Development of r2SCAN level universal neural network potential and its applications", Symposium MT04-Integrating Machine Learning and Simulations for Materials Modeling, 2025.
-*   Nontawat Charoenphakdee, Wenwen Li, **Yuta Tsuboi**, Junichi Ishida, and Ju Li. "How Reliable Are Machine Learning Potentials? An Assessment of Uncertainty Estimation in LightPFP", Symposium MT04-Integrating Machine Learning and Simulations for Materials Modeling, 2025.
-
-*   Motoki Sato, Hiroki Ouchi, and **Yuta Tsuboi**.
- ["Addressee and Response Selection for Multilingual Conversation"](http://aclweb.org/anthology/C18-1308), Proceedings of International Conference on Computational Linguistics (COLING), 2018.
+*   Motoki Sato, Hiroki Ouchi, and **Yuta Tsuboi**. ["Addressee and Response Selection for Multilingual Conversation"](http://aclweb.org/anthology/C18-1308), Proceedings of International Conference on Computational Linguistics (COLING), 2018.
 *   Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, **Yuta Tsuboi**, Yuya Unno, Wilson Ko, and Jethro Tan. Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions ([Arxiv](https://arxiv.org/abs/1710.06280), [Project page](https://pfnet.github.io/interactive-robot/), [Dataset](https://github.com/pfnet-research/picking-instruction)), Proceedings of International Conference on Robotics and Automation (ICRA), 2018.
 *   Hiroki Ouchi and **Yuta Tsuboi**. ["Addressee and Response Selection for Multi-Party Conversation"](publications/Addressee%20and%20Response%20Selection%20for%20Multi-Party%20Conversation-ouchi-tsuboi2016.pdf) ([Dataset/Codes](https://github.com/hiroki13/response-ranking)), Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016.
 *   **Yuta Tsuboi**. ["Neural Networks Leverage Corpus-wide Information for Part-of-speech Tagging"](publications/neuraltagger-emnlp2014-tsuboi.pdf) ([poster pptx](publications/neuraltagger-emnlp2014-tsuboi-poster.pptx)), Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2014.
@@ -70,6 +58,15 @@ My research interests include natural language processing, machine learning, and
 *   **Yuta Tsuboi**, Hisashi Kashima, Shohei Hido, Steffen Bickel, and Masashi Sugiyama. ["Direct density ratio estimation for large-scale covariate shift adaptation"](publications/180_Tsuboi_Kashima_Hido_Bickel_Sugiyama.pdf) ([poster](publications/180_Tsuboi_Kashima_Hido_Bickel_Sugiyama-poster.pdf), and [presentation](publications/180_Tsuboi_Kashima_Hido_Bickel_Sugiyama-presentation.pdf) slides), Proceedings of SIAM International Conference on Data Mining (SDM), 2008.
 *   Hisashi Kashima and **Yuta Tsuboi**. ["Kernel-based Discriminative Learning Algorithms for Labeling Sequences, Trees and Graphs"](publications/icml2004.pdf), Proceedings of 21st International Conference on Machine Learning (ICML), 2004.
 *   Kaoru Yamamoto, Taku Kudo, **Yuta Tsuboi**, and Yuji Matsumoto. ["Learning sequence-to-sequence correspondences from parallel corpora via sequential pattern mining"](http://www.cse.unt.edu/~rada/wpt/papers/pdf/Yamamoto.pdf), Proceedings of the HLT-NAACL 2003 Workshop on Building and using parallel texts, 2003.
+
+### Workshops & Symposiums
+
+*   Wenwen Li, Nontawat Charoenphakdee, **Yuta Tsuboi**, So Takamoto, and Ju Li. "LightPFP – Accelerating the Development of Task-Specific Machine Learning Potentials Using Universal Potential", 2024 MRS Fall Meeting & Exhibit, 2024.
+*   Chikashi Shinagawa, So Takamoto, Daiki Shintani, Katsuhiko Nishimura, Kohei Shinohara, Shigeru Iwase, **Yuta Tsuboi**, and Ju Li. "r2SCAN level universal neural network potential for molecules, crystals and surfaces", ACS Fall 2025, 2025.
+*   So Takamoto, Chikashi Shinagawa, Daiki Shintani, Katsuhiko Nishimra, Kohei Shinohara, Shigeru Iwase, **Yuta Tsuboi**, and Ju Li. "Development of r2SCAN level universal neural network potential and its applications", Symposium MT04-Integrating Machine Learning and Simulations for Materials Modeling, 2025.
+*   Nontawat Charoenphakdee, Wenwen Li, **Yuta Tsuboi**, Junichi Ishida, and Ju Li. "How Reliable Are Machine Learning Potentials? An Assessment of Uncertainty Estimation in LightPFP", Symposium MT04-Integrating Machine Learning and Simulations for Materials Modeling, 2025.
+*   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, **Yuta Tsuboi**, Ryuhei Okuno, and So Takamoto. "[Efficient Universal Potential Distillation with Pre-trained Students in LightPFP](https://openreview.net/forum?id=UZYPLGryS6)", ICLR 2026 (Submitted/OpenReview), 2026.
+*   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_100.pdf)", NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS), 2025.
 
 ### Awards
 
