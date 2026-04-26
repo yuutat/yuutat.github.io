@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /yuta/
+  - /yuta/index_en.html
+---
 # Yuta Tsuboi
 
 [Japanese](index_ja.html) | English

@@ -1,0 +1,3 @@
+include: ["~yuta"]
+plugins:
+  - jekyll-redirect-from
