@@ -22,6 +22,12 @@ My research interests include natural language processing, machine learning, and
 
 ## Publications
 
+### Preprints
+
+*   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, Ryuhei Okuno, **Yuta Tsuboi**, So Takamoto, Junichi Ishida, and Ju Li. "[LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale](https://arxiv.org/abs/2510.23064)", arXiv:2510.23064, 2025.
+*   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://arxiv.org/abs/2509.02927)", arXiv:2509.02927, 2025.
+*   Chikashi Shinagawa, So Takamoto, Daiki Shintani, Yong-Bin Zhuang, **Yuta Tsuboi**, Katsuhiko Nishimra, Kohei Shinohara, Shigeru Iwase, Yuta Tanaka, and Ju Li. "[Matlantis-PFP v8: Universal Machine Learning Interatomic Potential with Better Experimental Agreements via r2SCAN Functional](https://arxiv.org/html/2603.11063)", arXiv:2603.11063, 2026.
+
 ### Journal Papers
 
 *   Hiroshi Kajino, **Yuta Tsuboi**, Issei Sato and Hisashi Kashima. "[Learning from Crowds and Experts](https://www.jstage.jst.go.jp/article/tjsai/28/3/28_243/_article/-char/en/)", Journal of Japanese Society of Artificial Intelligence (in Japanese), Vol.28, No.3, pp.243-248, 2013.
@@ -34,7 +40,10 @@ My research interests include natural language processing, machine learning, and
 
 ### Publications in Refereed Conferences
 
-*   Motoki Sato, Hiroki Ouchi, and **Yuta Tsuboi**. ["Addressee and Response Selection for Multilingual Conversation"](http://aclweb.org/anthology/C18-1308), Proceedings of International Conference on Computational Linguistics (COLING), 2018.
+*   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, **Yuta Tsuboi**, Ryuhei Okuno, and So Takamoto. "[Efficient Universal Potential Distillation with Pre-trained Students in LightPFP](https://openreview.net/forum?id=UZYPLGryS6)", ICLR 2026 (Submitted/OpenReview), 2026.
+*   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_100.pdf)", NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS), 2025.
+*   Motoki Sato, Hiroki Ouchi, and **Yuta Tsuboi**.
+ ["Addressee and Response Selection for Multilingual Conversation"](http://aclweb.org/anthology/C18-1308), Proceedings of International Conference on Computational Linguistics (COLING), 2018.
 *   Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, **Yuta Tsuboi**, Yuya Unno, Wilson Ko, and Jethro Tan. Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions ([Arxiv](https://arxiv.org/abs/1710.06280), [Project page](https://pfnet.github.io/interactive-robot/), [Dataset](https://github.com/pfnet-research/picking-instruction)), Proceedings of International Conference on Robotics and Automation (ICRA), 2018.
 *   Hiroki Ouchi and **Yuta Tsuboi**. ["Addressee and Response Selection for Multi-Party Conversation"](publications/Addressee%20and%20Response%20Selection%20for%20Multi-Party%20Conversation-ouchi-tsuboi2016.pdf) ([Dataset/Codes](https://github.com/hiroki13/response-ranking)), Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016.
 *   **Yuta Tsuboi**. ["Neural Networks Leverage Corpus-wide Information for Part-of-speech Tagging"](publications/neuraltagger-emnlp2014-tsuboi.pdf) ([poster pptx](publications/neuraltagger-emnlp2014-tsuboi-poster.pptx)), Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2014.

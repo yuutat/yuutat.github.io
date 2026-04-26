@@ -24,6 +24,12 @@ Japanese | [English](index_en.html)
 
 ## Publications
 
+### Preprints
+
+*   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, Ryuhei Okuno, **Yuta Tsuboi**, So Takamoto, Junichi Ishida, and Ju Li. "[LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale](https://arxiv.org/abs/2510.23064)", arXiv:2510.23064, 2025.
+*   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://arxiv.org/abs/2509.02927)", arXiv:2509.02927, 2025.
+*   Chikashi Shinagawa, So Takamoto, Daiki Shintani, Yong-Bin Zhuang, **Yuta Tsuboi**, Katsuhiko Nishimra, Kohei Shinohara, Shigeru Iwase, Yuta Tanaka, and Ju Li. "[Matlantis-PFP v8: Universal Machine Learning Interatomic Potential with Better Experimental Agreements via r2SCAN Functional](https://arxiv.org/html/2603.11063)", arXiv:2603.11063, 2026.
+
 ### Journal Papers
 
 *   壁谷佳典，**坪井祐太**，吉田一星，豊島浩文，岡原勇郎. "[《特集号招待論文》機械学習のビジネス適用事例紹介－電話オペレータ支援と保険支払査定の事例から－](http://www.ipsj.or.jp/dp/contents/dp-mokuji.html)", デジタルプラクティス, Vol. 7, No. 4, pp.370-377, 2016.
@@ -36,7 +42,10 @@ Japanese | [English](index_en.html)
 
 ### Conferences
 
-*   高橋 城志, 羽鳥 潤, 菊池 悠太, 小林 颯介, **坪井 祐太**, 海野 裕也, 中島 統太郎, 福田 昌昭, Wilson Ko, Jethro Tan. ["実世界での話し言葉指示による物体移動: 深層学習による画像・言語理解"](publications/rsj2018-nlp-robot.pdf), 第36回日本ロボット学会学術講演会（RSJ2018）, 2018.
+*   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, **Yuta Tsuboi**, Ryuhei Okuno, and So Takamoto. "[Efficient Universal Potential Distillation with Pre-trained Students in LightPFP](https://openreview.net/forum?id=UZYPLGryS6)", ICLR 2026 (Submitted/OpenReview), 2026.
+*   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_100.pdf)", NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS), 2025.
+*   高橋 城志, 羽鳥 潤, 菊池 悠太, 小林 颯介, **坪井 祐太**,
+ 海野 裕也, 中島 統太郎, 福田 昌昭, Wilson Ko, Jethro Tan. ["実世界での話し言葉指示による物体移動: 深層学習による画像・言語理解"](publications/rsj2018-nlp-robot.pdf), 第36回日本ロボット学会学術講演会（RSJ2018）, 2018.
 *   Motoki Sato, Hiroki Ouchi, and **Yuta Tsuboi**. ["Addressee and Response Selection for Multilingual Conversation"](http://aclweb.org/anthology/C18-1308), Proceedings of International Conference on Computational Linguistics (COLING), 2018.
 *   Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, **Yuta Tsuboi**, Yuya Unno, Wilson Ko, and Jethro Tan. Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions ([Arxiv](https://arxiv.org/abs/1710.06280), [Project page](https://pfnet.github.io/interactive-robot/), [Dataset](https://github.com/pfnet-research/picking-instruction)), Proceedings of International Conference on Robotics and Automation (ICRA), 2018.
 *   **坪井 祐太**. ["品詞タグ付けニューラルネットワークの深層化"](publications/nlp2015-tsuboi.pdf)([slides](publications/nlp2015-tsuboi-poster.pdf)), 言語処理学会第21回年次大会(NLP2015), 2015.
