@@ -5,6 +5,8 @@ title: Yuta Tsuboi
 
 [Japanese](index_ja.html) | English
 
+I am a natural language processing researcher.
+
 ---
 
 ## Bio.
