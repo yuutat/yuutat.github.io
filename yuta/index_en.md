@@ -18,7 +18,7 @@ My research interests include natural language processing, machine learning, and
 
 ## Research Topics
 
-*   Natural Language Processing, Information Extraction, Machine Learning, Data Mining
+*   Atomistic Simulation, Machine Learning Interatomic Potentials (MLIPs)
 
 ## Publications
 

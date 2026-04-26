@@ -20,7 +20,7 @@ Japanese | [English](index_en.html)
 
 ## Research Topics
 
-*   自然言語処理 機械学習 データマイニング
+*   Atomistic Simulation, Machine Learning Interatomic Potentials (MLIPs)
 
 ## Publications
 
