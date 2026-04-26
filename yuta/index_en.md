@@ -44,6 +44,14 @@ My research interests include natural language processing, machine learning, and
 
 *   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, **Yuta Tsuboi**, Ryuhei Okuno, and So Takamoto. "[Efficient Universal Potential Distillation with Pre-trained Students in LightPFP](https://openreview.net/forum?id=UZYPLGryS6)", ICLR 2026 (Submitted/OpenReview), 2026.
 *   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_100.pdf)", NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS), 2025.
+
+### Workshops & Symposiums
+
+*   Wenwen Li, Nontawat Charoenphakdee, **Yuta Tsuboi**, So Takamoto, and Ju Li. "LightPFP – Accelerating the Development of Task-Specific Machine Learning Potentials Using Universal Potential", 2024 MRS Fall Meeting & Exhibit, 2024.
+*   Chikashi Shinagawa, So Takamoto, Daiki Shintani, Katsuhiko Nishimura, Kohei Shinohara, Shigeru Iwase, **Yuta Tsuboi**, and Ju Li. "r2SCAN level universal neural network potential for molecules, crystals and surfaces", ACS Fall 2025, 2025.
+*   So Takamoto, Chikashi Shinagawa, Daiki Shintani, Katsuhiko Nishimra, Kohei Shinohara, Shigeru Iwase, **Yuta Tsuboi**, and Ju Li. "Development of r2SCAN level universal neural network potential and its applications", Symposium MT04-Integrating Machine Learning and Simulations for Materials Modeling, 2025.
+*   Nontawat Charoenphakdee, Wenwen Li, **Yuta Tsuboi**, Junichi Ishida, and Ju Li. "How Reliable Are Machine Learning Potentials? An Assessment of Uncertainty Estimation in LightPFP", Symposium MT04-Integrating Machine Learning and Simulations for Materials Modeling, 2025.
+
 *   Motoki Sato, Hiroki Ouchi, and **Yuta Tsuboi**.
  ["Addressee and Response Selection for Multilingual Conversation"](http://aclweb.org/anthology/C18-1308), Proceedings of International Conference on Computational Linguistics (COLING), 2018.
 *   Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, **Yuta Tsuboi**, Yuya Unno, Wilson Ko, and Jethro Tan. Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions ([Arxiv](https://arxiv.org/abs/1710.06280), [Project page](https://pfnet.github.io/interactive-robot/), [Dataset](https://github.com/pfnet-research/picking-instruction)), Proceedings of International Conference on Robotics and Automation (ICRA), 2018.
