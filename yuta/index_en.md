@@ -1,7 +1,8 @@
 ---
 redirect_from:
-  - /yuta/
-  - /yuta/index_en.html
+  - /~yuta/
+  - /~yuta/index.html
+  - /~yuta/index_en.html
 ---
 # Yuta Tsuboi
 

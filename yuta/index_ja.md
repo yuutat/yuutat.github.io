@@ -1,6 +1,6 @@
 ---
 redirect_from:
-  - /yuta/index_ja.html
+  - /~yuta/index_ja.html
 ---
 # 坪井祐太(Yuta Tsuboi)
 
