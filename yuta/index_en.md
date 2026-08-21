@@ -9,10 +9,7 @@ title: Yuta Tsuboi
 
 ## Bio.
 
-Currently, I'm working at **Preferred Networks, Inc.**
-I received my M.E. from Nara Institute of Science and Technology (NAIST) in 2002, and had been engaged in research on text mining at IBM Research from 2002 to 2016.
-I received my D.E. from NAIST in 2009.
-My research interests include natural language processing, machine learning, and data mining.
+I currently work at Preferred Networks, Inc., where I contribute to the development of Matlantis, an atomistic simulation platform. Prior to this, I researched text mining at IBM Research from 2002 to 2016. I hold both an M.E. (2002) and a D.E. (2009) from the Nara Institute of Science and Technology (NAIST). My current research interests focus on atomistic simulation and machine learning. I am also a co-author of the book [Deep Learning for Natural Language Processing](https://www.kspub.co.jp/book/detail/1529243.html) (in Japanese).
 
 *   **X:** [@yuutat](http://twitter.com/yuutat)
 
@@ -76,4 +73,4 @@ My research interests include natural language processing, machine learning, and
 *   [IEEE Data Mining Contest](http://www.cs.ust.hk/~qyang/ICDMDMC07/) Task1 Winner, 2007.
 
 ---
-The postings on this site are my own and don't necessarily represent IBM's positions, strategies or opinions.
+The postings on this site are my own and don't necessarily represent my employer's positions, strategies or opinions.
