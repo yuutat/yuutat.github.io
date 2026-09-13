@@ -21,6 +21,7 @@ I currently work at Preferred Networks, Inc., where I contribute to the developm
 
 ### Preprints
 
+*   Ryuhei Okuno, Nontawat Charoenphakdee, Kaoru Hisama, and **Yuta Tsuboi**. "[MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials](https://arxiv.org/abs/2609.08399)", arXiv:2609.08399, 2026.
 *   Chikashi Shinagawa, So Takamoto, Daiki Shintani, Yong-Bin Zhuang, **Yuta Tsuboi**, Katsuhiko Nishimra, Kohei Shinohara, Shigeru Iwase, Yuta Tanaka, and Ju Li. "[Matlantis-PFP v8: Universal Machine Learning Interatomic Potential with Better Experimental Agreements via r2SCAN Functional](https://arxiv.org/html/2603.11063)", arXiv:2603.11063, 2026.
 *   Wenwen Li, Nontawat Charoenphakdee, Yong-Bin Zhuang, Ryuhei Okuno, **Yuta Tsuboi**, So Takamoto, Junichi Ishida, and Ju Li. "[LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale](https://arxiv.org/abs/2510.23064)", arXiv:2510.23064, 2025.
 *   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://arxiv.org/abs/2509.02927)", arXiv:2509.02927, 2025.
