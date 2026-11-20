@@ -26,6 +26,7 @@ Japanese | [English](index_en.html)
 
 ### Preprints
 
+*   Daiki Shintani, Shigeru Iwase, Jun Oshiki, Kohei Shinohara, Nontawat Charoenphakdee, Makoto Hiramatsu, **Yuta Tsuboi**, Yusuke Asano, Hirotaka Akita, Yong-Bin Zhuang, So Takamoto, and Chikashi Shinagawa. "[Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data](https://arxiv.org/abs/2611.23873)", arXiv:2611.23873, 2026.
 *   Chayaphol Lortaraprasert, Nontawat Charoenphakdee, Wenwen Li, Yong-Bin Zhuang, and **Yuta Tsuboi**. "[Does System Size Matter in Uncertainty Quantification for Machine Learning Interatomic Potentials?](https://arxiv.org/abs/2610.40126)", arXiv:2610.40126, 2026.
 *   Ryuhei Okuno, Nontawat Charoenphakdee, Kaoru Hisama, and **Yuta Tsuboi**. "[MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials](https://arxiv.org/abs/2609.08399)", arXiv:2609.08399, 2026.
 *   Chikashi Shinagawa, So Takamoto, Daiki Shintani, Yong-Bin Zhuang, **Yuta Tsuboi**, Katsuhiko Nishimra, Kohei Shinohara, Shigeru Iwase, Yuta Tanaka, and Ju Li. "[Matlantis-PFP v8: Universal Machine Learning Interatomic Potential with Better Experimental Agreements via r2SCAN Functional](https://arxiv.org/html/2603.11063)", arXiv:2603.11063, 2026.
@@ -66,6 +67,10 @@ Japanese | [English](index_en.html)
 *   Nontawat Charoenphakdee, Wenwen Li, **Yuta Tsuboi**, Junichi Ishida, and Ju Li. "How Reliable Are Machine Learning Potentials? An Assessment of Uncertainty Estimation in LightPFP", Symposium MT04-Integrating Machine Learning and Simulations for Materials Modeling, 2025.
 *   Shih-Peng Huang, Nontawat Charoenphakdee, **Yuta Tsuboi**, Yong-Bin Zhuang, and Wenwen Li. "[P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_100.pdf)", NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS), 2025.
 *   Wenwen Li, Nontawat Charoenphakdee, **Yuta Tsuboi**, So Takamoto, and Ju Li. "LightPFP – Accelerating the Development of Task-Specific Machine Learning Potentials Using Universal Potential", 2024 MRS Fall Meeting & Exhibit, 2024.
+
+### Lectures
+
+*   **坪井 祐太**. "[Before You Scale: Understand the Theory Behind the Simulation](https://speakerdeck.com/pfn/before-you-scale-understand-the-theory-behind-the-simulation)", 東京大学大学院情報理工学系研究科「自然言語処理応用」特別講演, 2026-10-27.
 
 ### Awards
 
